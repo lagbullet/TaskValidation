@@ -6,7 +6,6 @@ namespace ValidationApp
 {
     class Validator
     {
-        bool invalid = false;
 
         public bool IsValidURL(string url) => Regex.IsMatch(url, @"^(http:\/\/www\.|https:\/\/www\.|http:\/\/|https:\/\/)[a-z0-9]+([\-\.]{1}[a-z0-9]+)*\.[a-z]{2,5}(:[0-9]{1,5})?(\/.*)?$", RegexOptions.IgnoreCase);
 
