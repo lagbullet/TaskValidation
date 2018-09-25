@@ -6,8 +6,8 @@ namespace ValidationApp
     {
         static void Main(string[] args)
         {
-            string email = Console.ReadLine();
             Validator validator = new Validator();
+            string email = Console.ReadLine();
             if (validator.IsValidEmail(email))
                 Console.WriteLine("Email is valid");
             else

@@ -5,3 +5,10 @@ C:\Users\Alexander\source\repos\ValidationApp\ValidationApp\obj\Debug\Validation
 C:\Users\Alexander\source\repos\ValidationApp\ValidationApp\obj\Debug\ValidationApp.csproj.CoreCompileInputs.cache
 C:\Users\Alexander\source\repos\ValidationApp\ValidationApp\obj\Debug\ValidationApp.exe
 C:\Users\Alexander\source\repos\ValidationApp\ValidationApp\obj\Debug\ValidationApp.pdb
+C:\Users\User\Downloads\TaskValidation-master\TaskValidation-master\ValidationApp\bin\Debug\ValidationApp.exe.config
+C:\Users\User\Downloads\TaskValidation-master\TaskValidation-master\ValidationApp\bin\Debug\ValidationApp.exe
+C:\Users\User\Downloads\TaskValidation-master\TaskValidation-master\ValidationApp\bin\Debug\ValidationApp.pdb
+C:\Users\User\Downloads\TaskValidation-master\TaskValidation-master\ValidationApp\obj\Debug\ValidationApp.csprojAssemblyReference.cache
+C:\Users\User\Downloads\TaskValidation-master\TaskValidation-master\ValidationApp\obj\Debug\ValidationApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\TaskValidation-master\TaskValidation-master\ValidationApp\obj\Debug\ValidationApp.exe
+C:\Users\User\Downloads\TaskValidation-master\TaskValidation-master\ValidationApp\obj\Debug\ValidationApp.pdb
